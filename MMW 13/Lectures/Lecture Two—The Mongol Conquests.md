@@ -28,11 +28,13 @@ Military Advantages
 		- Committing atrocities to resistant cities, leaving survivors to tell the tale
 			- *Aura Farming?*
 
-Climate Change and Patterns of Nomadic Behavior Prior to 1200  
-- David Ringrose’s on effects of climate change (Expansion and Global Interactions)  
-	- Significant warming trend from 800-1200 C.E.  
-		- Demographic effects on a global scale  
-		- “Buffer zone” between nomads and farmers shrank significantly as a result  
+Climate Change and Patterns of Nomadic Behavior Prior to 1200
+- David Ringrose’s on effects of climate change (Expansion and Global Interactions)
+	- Significant warming trend from 800-1200 C.E.
+		- Demographic effects on a global scale
+			- Due to warmer climate = more agricultural spots = more farmers
+		- “Buffer zone” between nomads and farmers shrank significantly as a result
+			- Resulted in more tensions between the cultures
 - Nomad Incursions from 11th to 12th century  
 	- As such, by early 1200s, Genghis Khan perhaps simply integrating what other nomad regimes had already set up?  
 ## II) “The Accidental Empire”  
