@@ -74,7 +74,8 @@ Reluctant administrators of land they conquered by default
 Religious Pluralism  
 - Integrated empire facilitated the spread of religious systems  
 	- Religion had the means to transcend ethnic and cultural barriers  
-	- E.g. presence of William of Rubruck and later of the Polos in Mongol court  
+	- E.g. presence of William of Rubruck and later of the Polos in Mongol court 
+	- Chabi - Kublai Khan's fav wife, Christian
 
 Economic Coherence  
 - Provided secure and efficient infrastructure for trade  
@@ -87,3 +88,4 @@ Economic Coherence
 ## So Very Important Quotes
 
 "You remember sharks and minnows right? It involves shooting at your friends" - Chang, Lecture 2
+"Her name was Chabi, wait, why is that funny?"
