@@ -69,6 +69,7 @@ Reluctant administrators of land they conquered by default
 - E.g. Ogodei Khan’s initial plan was to turn all of northern China into pasture
 	- Each mongol, has about 10 or so horses to carry luggage, YURT, spoils, etc
 	- Infinite pasture? INFINITE BEES
+	- Advisor suggested taxing farmers instead
 ## III) The Impact of the Mongol Empire  
 Religious Pluralism  
 - Integrated empire facilitated the spread of religious systems  
