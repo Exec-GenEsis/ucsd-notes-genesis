@@ -42,6 +42,13 @@ Conquerors by default
 - Mongol expansion under Genghis Khan not by design but by default  
 - Their intent always to follow the traditional “outer frontier strategy”  
 
+*Mongol Strategy: Outer Frontier Strat*
+- *Fight*
+- *Loot*
+- *Take concessions*
+- *Run back to the steppes*
+- *I.e. Harassing,*
+
 Problem with “Outer Frontier Strategy” for the Mongols  
 - But late 1100s, Mongols had to face semi-nomadic rulers who now occupied the fertile regions  
 	- Jurchens had established the Jin (Chin) Dynasty in northern China  
