@@ -52,8 +52,11 @@ Conquerors by default
 Problem with “Outer Frontier Strategy” for the Mongols  
 - But late 1100s, Mongols had to face semi-nomadic rulers who now occupied the fertile regions  
 	- Jurchens had established the Jin (Chin) Dynasty in northern China  
-		- Had their own formidable cavalry to match the Mongols  
-			- War of attrition ended up destroying basis of productivity in northern China  
+		- Former Manchurian Nomads, Had their own formidable cavalry to match the Mongols.
+			- Mongols had to fight hard and long to get any resources.
+			- War of attrition ended up destroying basis of productivity in northern China.
+				- *Over 90 cities razed, Population (and farmers) drops from 50 million to 8 million*
+				- *So, where could any concessions even come from*
 			- In western Asia, faced defiance of Turkic nomad rulers, such as Khwarazm Shah 
 				- Resulted in all-out punitive expedition by Genghis khan in 1219
 
@@ -63,7 +66,9 @@ Motive Behind Mongol Expansion
 
 Reluctant administrators of land they conquered by default  
 - Initially saw peasants as dispensable and farmland as an eyesore
-- E.g. Ogodei Khan’s initial plan was to turn all of northern China into pasture  
+- E.g. Ogodei Khan’s initial plan was to turn all of northern China into pasture
+	- Each mongol, has about 10 or so horses to carry luggage, YURT, spoils, etc
+	- Infinite pasture? INFINITE BEES
 ## III) The Impact of the Mongol Empire  
 Religious Pluralism  
 - Integrated empire facilitated the spread of religious systems  
@@ -78,6 +83,6 @@ Economic Coherence
 - 1250-1350: A truly global network
 
 
-## Very Important Quotes
+## So Very Important Quotes
 
 "You remember sharks and minnows right? It involves shooting at your friends" - Chang, Lecture 2
