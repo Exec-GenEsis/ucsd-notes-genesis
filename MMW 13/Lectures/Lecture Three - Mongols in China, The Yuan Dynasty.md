@@ -51,24 +51,31 @@ A “global” and cosmopolitan sovereign with pragmatic sensibilities
 	- E.g. Yeh-hsi-tieh-erh, Muslim architect, to lead construction of Da-du  
 	- E.g. The Case of the Polos  
 - Had an almost modern awareness of the power of image-making  
+	- For him to succeed, he had to hold a dual image for both of his empires
 	- Dual identity as the Great Khan of the Mongols, but also as the Yuan emperor of his Chinese subjects. 
 
 Establishment of the hierarchy of four ethnic classes
 - Mongols, Semuren, Hanren, Nanren  
 
-Reliance on Foreign Administrators  
+Heavy Reliance on Foreign Administrators
+- Despite distrust for subjects, the skill impressed the Mongols enough to assign them positions
 - The Case of Ahmad  
 	- Finance czar from 1262-1282  
-	- Strong fiscal measures he took  
+	- Strong, Draconian fiscal measures he took to increase Yuan court revenue
+		- Increased amount of registered households
+		- Skilled at picking out imperial concubienes for leader Khan
+		- 
 - The Case of Saiyid Ajall  
 	- Appointed governor of strategic new territory of Yunnan in 1274  
-	- Why choose an old Muslim for such a key post?  
+	- Why choose an old Muslim for such a key post?
+		- 
 	- Achievements as governor  
 
 The Adverse Impact of Global Politics on Mongol-Muslim Relations  
 - Geopolitical developments in 1270-1280 affecting domestic policy  
 	- Threat of Islamic power  
 	- Anti-Muslim decrees or jasaghs  
+	- Later reversed for Muslim merchants in 1287
 - Was this the cumulative effect of anti-Muslim sentiments in China?  
 	- E.g. Christian official Ai-xue’s relentless sabotaging of Muslims  
 
