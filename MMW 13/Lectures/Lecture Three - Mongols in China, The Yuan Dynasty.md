@@ -15,15 +15,18 @@ Khubilai’s Rise to Power
 - Elected Great Khan after his older brother died suddenly in 1260  
 - Challenegd by another younger brother Arigh Boke  
 - Between 1260-1264, costly and lengthy campaigns to suppress this challenge  
+	- Victory derived from controlling food from Arigh Boke as opposed to any battle
 	- Needed to re-invent himself into a committed sovereign of a sedentary society
 
 Economic Recovery under Khubilai  
 - Devastation of northern China from previous wars  
 - Emergency measures  
-	- Establish Office for the Stimulation of Agriculture in 1261  
-	- Autonomous village organizations called she  
+	- Establish Office for the Stimulation of Agriculture in 1261
+	- Ended tax farming and pro-farming relief policies
+	- Autonomous village organizations called she
 - Records show Khubilai to be a well-informed, hands-on executive  
-	- Resourceful, pragmatic in use of advisors of all faiths and ethnicities  
+	- Resourceful, pragmatic in use of advisors of all faiths and ethnicities
+		- As well as recruiting of advisors and workers, choosing confucian and buddhist, christians, anyone with expertise.
 	- Delegated responsibility broadly so as to avoid reliance on one group  
 
 Boost commercial infrastructure  
@@ -63,3 +66,7 @@ The Adverse Impact of Global Politics on Mongol-Muslim Relations
 	- Anti-Muslim decrees or jasaghs  
 - Was this the cumulative effect of anti-Muslim sentiments in China?  
 	- E.g. Christian official Ai-xue’s relentless sabotaging of Muslims  
+
+
+## Completely relevant quotes
+Late dog what?
