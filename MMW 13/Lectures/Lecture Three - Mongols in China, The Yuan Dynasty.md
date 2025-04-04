@@ -31,14 +31,18 @@ Economic Recovery under Khubilai
 
 Boost commercial infrastructure  
 - Support for the Muslim-run merchant associations—known as ortakhs  
-	- Financial middle-men—funding from Mongol elitesloans to merchants  
+	- Financial middle-men—funding from Mongol elites -> loans to merchants
+		- So as to redirect social burden and stigma of "debt collecting"
+		- Also shifted blame to merchants for conversion into currency
+			- *See "Paper Currency"*
+	- Enjoyed laissez-faire policy via low taxes and tarrifs
 - Paper currency  
 	- All merchants had to convert gold or silver to paper currency  
 	- Why inflation did not get out of hand  
 - Postal Stations or Yambs  
 	- System first set up by Ogodei Khan  
 	- 25 miles apart/ 200 to 400 fresh horses at the ready  
-
+	- About 50k horses for message relay
 ## The Making of a “Global” Sovereign  
 A “global” and cosmopolitan sovereign with pragmatic sensibilities  
 - Appreciation for not just the symbolism but the function of diversity  
@@ -70,3 +74,5 @@ The Adverse Impact of Global Politics on Mongol-Muslim Relations
 
 ## Completely relevant quotes
 Late dog what?
+"I kept thinking of sheep pulling little carts, I couldn't get that idea out of my head" - Chang, *Lecture 3*
+"Sheep were used as bubble wrap" 
