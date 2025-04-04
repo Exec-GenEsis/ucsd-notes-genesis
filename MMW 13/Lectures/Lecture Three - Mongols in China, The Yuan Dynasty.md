@@ -51,6 +51,7 @@ A “global” and cosmopolitan sovereign with pragmatic sensibilities
 	- E.g. Yeh-hsi-tieh-erh, Muslim architect, to lead construction of Da-du  
 	- E.g. The Case of the Polos  
 - Had an almost modern awareness of the power of image-making  
+	- Dual identity as the Great Khan of the Mongols, but also as the Yuan emperor of his Chinese subjects. 
 
 Establishment of the hierarchy of four ethnic classes
 - Mongols, Semuren, Hanren, Nanren  
@@ -75,4 +76,4 @@ The Adverse Impact of Global Politics on Mongol-Muslim Relations
 ## Completely relevant quotes
 Late dog what?
 "I kept thinking of sheep pulling little carts, I couldn't get that idea out of my head" - Chang, *Lecture 3*
-"Sheep were used as bubble wrap" 
+"Sheep were used as bubble wrap" - Chang, *Lecture 3*
