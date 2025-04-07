@@ -64,7 +64,6 @@ Heavy Reliance on Foreign Administrators
 	- Strong, Draconian fiscal measures he took to increase Yuan court revenue
 		- Increased amount of registered households
 		- Skilled at picking out imperial concubienes for leader Khan
-		- 
 - The Case of Saiyid Ajall  
 	- Appointed governor of strategic new territory of Yunnan in 1274  
 	- Why choose an old Muslim for such a key post?
