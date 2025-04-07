@@ -52,7 +52,8 @@ Extent of expeditions
 	- First two: Malacca, Sumatra  
 	- 3rd reached Malabar coast  
 	- 4th reached the Red Sea and Hormuz  
-	- Later expeditions reached East African coast—Mogadishu and Mombasa  
+	- Later expeditions reached East African coast—Mogadishu and Mombasa
+	- Did they go beyond that?
 - Gavin Menzies’s theory concerning 6th Expedition 1421-1423
 	- 1421: The Year China Discovered America  
 
@@ -74,3 +75,4 @@ Impact on World History Past and Present
 ## Very Aggravating Quotes
 "If they don't they have to go to, what? (Points at Indonesia) is this the Philippines? (Philippines, mind you, was 4 inches above Indonesia, CLEARLY LABELED)" Chang, Lecture 4'
 "I used to include maps on my test, they had to identify where places were on the map"
+"Quarterdeck - Place where Captain stands"
