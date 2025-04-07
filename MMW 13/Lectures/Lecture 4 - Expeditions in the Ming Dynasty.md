@@ -41,7 +41,7 @@ The Purpose of the Treasure Fleets (1402-1435)
 	- Political: Powerbroker and “kingmaker” in regional politics  
 		- Overall, 47 new tributary states were added as the result of the expeditions  
 		- Paternalistic logic of tributary system
-			- Tributary System - Not Colonized, instead have to annually give the chinese court a tribute to show subservience
+			- Tributary System - Not Colonized, instead have to annually give the Chinese court a tribute to show subservience
 	- “Transforming power of imperial virtue (and magnanimity)”  
 - Ming fleet’s “carrot and stick” approach  
 	- Dazzle with its wealth and size, intimidate with massive firepower  
