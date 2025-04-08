@@ -8,4 +8,7 @@
 - Instance Variable - Variables used to make the Instance, any amount, defined.
 - Constructor - Same name as Class, actual blueprint of a Class
 - Non-Static (Instance) Method - Describes class actions. Must use instance object, can't just be class blueprint itself.
-- 
+
+## Constructor Overload
+- Creating multiple constructors for the same object, all taking different inputs.
+	- Good for generalized use cases, where a troglodyte might have all the answers.
