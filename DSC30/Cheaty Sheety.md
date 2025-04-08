@@ -1,6 +1,5 @@
 ## Changes
 
-
 #### Functions declared as: 
 
 ```
@@ -31,19 +30,3 @@ Alternatively
 ```
 (datatype)[] (name) = []
 ```
-
-## Notes on 
-
-Class > Method > Statement
-- Class - Stores Methods
-- Methods - Stores Lines of arguments
-- Statements - the fuck you think?
-
-```
-public static void main(String[] args){}
-```
-- Public - Instances and variables accessible within others
-- Static - Variables declared within cannot be changed
-- Void - return type
-- main - name of Class
-- `(String[] args)` - 
