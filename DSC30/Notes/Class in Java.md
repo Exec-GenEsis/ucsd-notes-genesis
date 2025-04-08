@@ -1,4 +1,5 @@
 - Class - Object template
+	- Must have a "main" function to run, "Indicates where to start"
 - Object - Instance of a Class
 - A instantiates B - A is class, B is Baby, A made B
 
