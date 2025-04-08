@@ -3,3 +3,4 @@ The fuck are they?
 
 - Public - Variables accessible and changeable
 - Private - Closed shutter
+	- Usually used for Instance Variables
