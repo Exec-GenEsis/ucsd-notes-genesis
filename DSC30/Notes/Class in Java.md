@@ -12,3 +12,21 @@
 ## Constructor Overload
 - Creating multiple constructors for the same object, all taking different inputs.
 	- Good for generalized use cases, where a troglodyte might have all the answers.
+
+## This
+- refers to itself
+- Useful for class methods
+- Setters, for example:
+#### Python
+```
+(pretend I made class code here)
+def country(x):
+	self.country = x
+```
+#### Java
+```
+(pretend I made class code here)
+public country(string x){
+	this.country = x;
+}
+```
