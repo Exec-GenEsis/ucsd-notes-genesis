@@ -68,8 +68,12 @@ Extent of Empire
 - Possibility of an Atlantic crossing?  
 
 Worldly Prominence under Mansa Musa (r. 1312-1337)  
+- Brought a lot of gold as alms for people, feeling it was his duty (100 Camels)
+	- When he ran out, started borrowing gold
+	- Gave so much gold in Cairo that it started to inflate its economy.
 - Famous pilgrimage to Mecca  
 - Returned with scholars, architects, poets, scientists  
-	- Famous madrasas and libraries at Timbuktu  
-	-  Great Mosque at Djenne  
--  Catalan map of 1375  
+	- Famous madrasas and libraries at Timbuktu
+	-  Great Mosque at Djenne (Recently destroyed by Islamists)
+-  Catalan map of 1375
+- What Africa symbolized for Iberians in the 14th Century
