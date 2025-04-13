@@ -23,7 +23,7 @@ for (declare or initialize loop control variable; condition to check; incrementi
 #### Arrays declared as:
 
 ```
-(datatype)[] (name) = [number of slots to reserve, defaults to 0 or empty?]
+(datatype)[] (name) = new (datatype)[number of slots to reserve, defaults to 0 or empty?]
 ```
 
 Alternatively
