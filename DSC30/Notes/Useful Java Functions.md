@@ -5,5 +5,5 @@
 E.g.:
 ```
 int mySmell = 10
-String strSmell = Integer.toString(mySmell)
+	String strSmell = Integer.toString(mySmell)
 ```
