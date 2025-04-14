@@ -59,18 +59,24 @@ Provincial Administration—The Timar System
 - Timars—administrative and tax-collecting grants dispensed by the Sultan  
 - Organized according to military structure  
 	- Direct correspondence between rank, revenue, and military responsibility  
-	- All timariots must dutifully collect taxes  
-		- Third party oversight by qadis to assure fairness and accountability
-- Inheritance of timar grants  
-	- Theoretically grant to be returned to the Sultan when a timariot dies  
-	- Eventually system also became susceptible to abuse  
+	- All timariots(grant receivers) must dutifully collect taxes  
+		- Third party oversight by qadis (judges) to assure fairness and accountability
+- Inheritance of timar grants
+	- The larger the grant, the larger the tax revenue that must be returned. Usually meaning only a third of the revenue stays locally.
+	- Theoretically grant to be returned to the Sultan when a timariot dies
+		- But, the longer a timar stays in a family, the more entrenched the timariot power becomes, to the point of being able to ignore Sultan orders
+		- Eventually system also became susceptible to abuse 
 
 Ethnic and Religious Communities—The Millet System  
 - At first, religious or ethnic affiliation not a prerequisite for timar grants  
-	- Local elites, Christian and Jewish, allowed to administer their own communities or millah (“nation” in Arabic)  
+	- Local elites, Christian and Jewish, allowed to administer their own communities or millah (“nation” in Arabic)
+	- Expectation is that no matter your origin, you will stay loyal to the Sultan because of this.
 - Religious Tolerance  
 	- Level of religious tolerance in stark contrast to that in European Christendom  
-	- Overall, Ottoman rule was very accommodating to its dhimmi subjects  
+	- Overall, Ottoman rule was very accommodating to its dhimmi subjects
+		- Ottoman empire becomes a haven for persecuted religious individuals
+		- "Only in the Ottoman"
+		- Over half of the Ottoman peoples were not Muslim
 	- Yet, with decline, also came greater intolerance  
 		- Division of (Askeri) ruling class and Reaya (ruled class) along religious lines  
 		- By 18th century, greater discrimination against non-Muslim subjects  
@@ -82,5 +88,5 @@ Systemic Crisis Argument
 	- All short-term solutions that ironically contributed to long-term cancer
 
 # Wild Chang quotes
-- "I would think the younger the better"
+- "I would think the younger the boys, the better"
 - "Why christian boys?"
