@@ -28,17 +28,31 @@ Establishing a Centralized Bureaucracy
 Sultan’s Civil Service—The Ghulam System  
 - Devshirme—provincial slave levy dating to 1395 to supply “ghulams”
 	- "Class of servant" might be more appropriate?
-- Why Christian “slaves” instead of Muslim freemen?  
-- Trained as administrators and soldiers—the Janissary Corps  
-	- Inner Service  
+- Why Christian “slaves” instead of Muslim freemen?
+	- Slave-Servant titling
+	- Thought to be more selfless
+	- Way to bypass traditional families and ranking systems. Far removed from their own customs. 
+- Trained as administrators and soldiers—the Janissary Corps
+	- Inner Service
+		- Usually of gifted intellect, trained in languages, math, sciences, music.
+		- Often became teachers, professors
 		- Highest post of Grand Vizier appointed from the Janissary Corps  
-	- Outer Service  
-	- Janissary ideal at its best  
+	- Outer Service
+		- Served outside of the court
+		- Provisional Servants, but also Military Commanders, Ambassadors
+	- Janissary ideal at its best
+		- Loyalty to the Sultan
+		- Participation in Spring(?) Corps
+		- Self Denial, Discipline
+		- Innovation, in strategy and technology.
 - Janissaries’ new elite status  
+	- Exempt from taxes
 	- Evolved into the preeminent political and military elite in the Ottoman empire  
 	- Over time, privileged status can also breed nepotism and corruption
-		- Absentee officials buying titles of "Janissary" inflated numbers.
 		- By late 17th century, Janissary corps had grown from 7000 to 20,000 members  
+		- Absentee officials buying titles of "Janissary", inflating numbers and reducing efficacy. Janissary becomes a lucrative trade.
+			- Buyers of title did not even go through training, or have any outstanding mental skills. Janissary loses it's functional indication and becomes a symbol of monetary prestige.
+		- By 19th century, as many as 100,000 people with title of "Janissary"
 		- Loss of discipline in the rank and file of the corps  
 
 Provincial Administration—The Timar System  
@@ -69,3 +83,4 @@ Systemic Crisis Argument
 
 # Wild Chang quotes
 - "I would think the younger the better"
+- "Why christian boys?"
