@@ -56,10 +56,15 @@ Pragmatic ruler “both feared and loved”
 	- Pragmatist not ideologue or religious zealot  
 	- Skillfully manipulated his public image as “Shah of the People”  
 		- Made sure his authority and persona were both highly visible  
-		- “More feared than loved”?  
-			- Played no favorites, tolerated no sycophants
-			- Effectively built a myth around himself  
+		- Well versed in discourse around religions
+	- “More feared than loved”?  
+		- Went to markets, conversed and talked to the people
+		- His palace constructed with wide verandas and courtyards, meaning anyone could see the Shah in his palace.
+		- Played no favorites, tolerated no sycophants
+		- Effectively built a myth around himself
+		- More unassuming and familliar he appeared, the more people trembled
 	- Religious Policies
-		- Favored none and influenced by none  
+		- Father Simon: No one knew for sure what faith Shah Abbas espoused
+		- Favored none and influenced by none
 		- Effectively purged the Qizilbash and whatever residual influence it had  
 		- After Shah Abbas, dominance of conservative Shi’a imams at expense of other sects
