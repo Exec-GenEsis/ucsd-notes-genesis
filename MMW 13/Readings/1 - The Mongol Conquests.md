@@ -7,3 +7,4 @@ Template
 ### 2- What “outer frontier strategy” meant for aggressive nomadic tribes tactically and why the Mongols could not capitalize on this  
 
 ### 3 
+nb
