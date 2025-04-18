@@ -7,7 +7,7 @@ Type: Primary Source
 	- Form of pardon even possible
 - Reduced taxes on iraq flocks, waiving of divan levies for Shi'ites during Ramadan
 	- Analysis and connection to theme
-### 2 - (Discourse 7) - Shah Abbas
+### 2 - (Discourse 7) - Shah Abbas made good policy
 - 
 	- Analysis and connection to theme
 - Example 2
