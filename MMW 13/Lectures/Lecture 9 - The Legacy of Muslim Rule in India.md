@@ -47,12 +47,17 @@ Height of the Mughal empire
 - Grandson of Babur, the founder of the Mughal Empire  
 - Reigned from 1556-1605 
 - Akbar’s Inclusive Method of Governing  
-	- His own Grand Vizier was a Hindu named Birbal  
+	- His own Grand Vizier was a Hindu named Birbal
+		- Closest childhood friend and confidant
+	- 1/3rd of bureaucracy was Hindu officials
+	- Removed Jizya tax on Hindus
 
 Promotion of the “Divine Faith” or Din-i-Ilahi  
 - Merged the ethical foundations of Islam, Hinduism, and Zoroastrianism  
 - Reinforced emperor devotion as the embodiment of all these traditions  
 - Similar to Shah Abbas in his theological curiosity  
+- Frequently discussed theology with teachers of all faiths
+	- E.g. painting depicting him conversing with Jesuit missionaries
 
 Reversion to repression  
 - Aurangzeb, his great grandson (1659-1707)  
