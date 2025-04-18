@@ -5,12 +5,12 @@ Main Focus:
 ## The Initial Encounter  
 
 Muslim nomads entered the Punjab in northern India as early as the 8th century  
-i) Plundered northern India for wealth but did not stay to govern  
+- Plundered northern India for wealth but did not stay to govern  
 
 Origin of the term “Hindu”?  
-i) Mutual Prejudice  
-(1) Hindu aloofness—regarded outsiders as inherently impious and impure  
-(2) Muslim-Prejudice—Regarded Hindus as “incorrigible idol-worshippers”  
+- Mutual Prejudice  
+	- Hindu aloofness—regarded outsiders as inherently impious and impure  
+	- Muslim-Prejudice—Regarded Hindus as “incorrigible idol-worshippers”  
 ## The Delhi Sultanate (1205-1526)  
 
 First Muslim rulers to establish a permanent foundation in northern India  
