@@ -9,11 +9,11 @@ Muslim nomads entered the Punjab in northern India as early as the 8th century
 
 Origin of the term “Hindu”?  
 - Mutual Prejudice  
-	- Hindu aloofness—regarded outsiders as inherently impious and impure  
+	- Hindu aloofness—regarded outsiders as inherently "impious and impure"
 	- Muslim-Prejudice—Regarded Hindus as “incorrigible idol-worshippers”  
 ## The Delhi Sultanate (1205-1526)  
-
-First Muslim rulers to establish a permanent foundation in northern India  
+First Muslim rulers to establish a permanent foundation in northern India 
+- *Choice to settle in order to better tap into lower resources*
 - Reign of Alauddin Khalji (1296-1316)  
 	- Policy of oppressing Hindu subjects through heavy taxation  
 		- Tax them so much that “no Hindu could hold up his head”  
