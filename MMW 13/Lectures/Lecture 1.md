@@ -1,14 +1,7 @@
-Page
-
-of 2
-
-Zoom
-
-Outline Lecture One—Introduction Lecture to Course Themes  
 Focus of lecture:  
 1) The origin and impact of the “Rise of the West” mythology  
 2) Towards a more inclusive, polycentric narrative of “world history”?  
-I) “Rise of the West” Master Narrative  
+## “Rise of the West” Master Narrative  
 a) The Myth of European Exceptionalism  
 i) Eurocentric “world historians” assumed that Western culture inherently unique,  
 intrinsically exceptional  
@@ -32,7 +25,8 @@ i) If we take a more objective and inclusive view of what the world was like bef
 European colonial hegemony  
 ii) If we “begin the story early enough” as Janet Abu-Lughod puts it, it makes all the  
 difference  
-II) Explanations for “The Rise of the West”  
+
+## Explanations for “The Rise of the West”  
 a) David Buck’s “Was it Pluck or Luck that Made the West Grow Rich?”  
 i) “Pluck” as in the instinct, knack, or propensity inherent in European culture that  
 propelled the West to economic prominence by the 18th century  
@@ -47,7 +41,6 @@ i) Europe’s success represents an anomaly in its political and economic evolut
 ii) More a “discontinuity” than a pre-ordained “inevitability”  
 d) R. Bin Wong’s “Separate Trajectories” argument  
 i) No shared or universal “meta-narrative” for what “progress” means
-
 (1) Important to “go beyond asking European-derived questions,” such as “Why did  
 China fail where Europe succeeded?”  
 ii) Contingency, Accident, Conjuncture  

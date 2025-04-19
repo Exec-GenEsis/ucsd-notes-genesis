@@ -1,4 +1,6 @@
-Wr
+Description: Thomas Barfield's 1989 analysis in a book
+Type: Secondary
+- Scholarly Argument - The rule and mismanagement of the Mongol Empire, because they were rulers "by default rather than by design"
 ### 1 - What “outer frontier strategy” meant for aggressive nomadic tribes tactically and why the Mongols could not capitalize on this  
 - Outer Frontier Strategy - Yoink Agricultural and "Settler Type Materials"
 	- Nomads in China typically don't want to "conquer" because they don't want to stay. Rather prefer to use tactical superiority and "Yoink and dip strategy" to retreat back to steppe
