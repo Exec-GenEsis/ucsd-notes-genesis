@@ -13,7 +13,7 @@ The Four Khanates
 
 Khubilai’s Rise to Power  
 - Elected Great Khan after his older brother died suddenly in 1260  
-- Challenegd by another younger brother Arigh Boke  
+- Challenged by another younger brother Arigh Boke  
 - Between 1260-1264, costly and lengthy campaigns to suppress this challenge  
 	- Victory derived from controlling food from Arigh Boke as opposed to any battle
 	- Needed to re-invent himself into a committed sovereign of a sedentary society

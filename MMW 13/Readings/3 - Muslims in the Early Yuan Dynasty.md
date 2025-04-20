@@ -8,7 +8,7 @@ Type: Secondary
 	- Secondary perspective that this characterization was for mongol benefit. "Hey this dude was the source of your struggle and we got rid of him (ignore we hired him)"
 - Ahmad also contributed in importing beasts of burden to form a "Postal System" across China, allowing for an "Export economy" especially and notably in silks, ceramics and spices. Importing traders needed to convert to cash first, which was hella cash muns, allowing for enough cash influx to start loans. 
 	- Analysis and connection to theme
-### 2 - Main Point 2
+### 2 - Muslims had heavy contributions 
 - Example 1
 	- Analysis and connection to theme
 - Example 2
