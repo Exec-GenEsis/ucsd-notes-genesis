@@ -15,6 +15,6 @@ Type: Secondary
 
 ### 3 - Push of anti-muslim regulation marked decline of cooperation
 - Aftereffects of Ahmad's ruthless policies meant Buddhists, Confucians, Chinese, all advised Kublai to rid of him
-	- 
-- Example 2
-	- Analysis and connection to theme
+	- Refusal to eat non muslim prepared meat at Kublai's banquet started chain reaction of laws against circumcision, etc.
+- Despite this and temporary anti-muslim trades, muslims returned
+	- Exposing pride/prejudice in system?
