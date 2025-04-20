@@ -8,14 +8,13 @@ Type: Secondary
 	- Secondary perspective that this characterization was for mongol benefit. "Hey this dude was the source of your struggle and we got rid of him (ignore we hired him)"
 - Ahmad also contributed in importing beasts of burden to form a "Postal System" across China, allowing for an "Export economy" especially and notably in silks, ceramics and spices. Importing traders needed to convert to cash first, which was hella cash muns, allowing for enough cash influx to start loans. 
 	- Analysis and connection to theme
-### 2 - Muslims had heavy contributions 
-- Example 1
-	- Analysis and connection to theme
-- Example 2
-	- Analysis and connection to theme
+### 2 - Muslims had heavy contributions to culture and leadership
+- Prime example Saiyid - Assisted in the military encroachment into Yunnan
+	- Despite this, did not push Islam into yunna, instead pushing chinese cultures. 
+	- Executed for allegedly stealing 130k ting of money
 
-### 3 - Main Point 3
-- Example 1
-	- Analysis and connection to theme
+### 3 - Push of anti-muslim regulation marked decline of cooperation
+- Aftereffects of Ahmad's ruthless policies meant Buddhists, Confucians, Chinese, all advised Kublai to rid of him
+	- 
 - Example 2
 	- Analysis and connection to theme
