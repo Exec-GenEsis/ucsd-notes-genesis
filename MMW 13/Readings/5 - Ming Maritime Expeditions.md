@@ -1,6 +1,6 @@
 Description: Article exploring Cheng He's maritime expeditions
 Type: Secondary
-- Scholarly Argument: 
+- Scholarly Argument: The Expeditions were both a show of strength and a type of "generosity"
 ### 1 - Cheng He was the person for the job
 - Accomplished Eunuch Muslim, supposedly "Seveb feet tall with a five foot waist"
 ### 2 - Treasure Voyage accounts

@@ -7,10 +7,4 @@ Type: Primary or Secondary?
 - "Blows, confinement in the stocks, imprisonment and chains were all employed to force payment"
 ### 2 - Sultan Alau-d din was schewpid
 - "He was a king who had no acquaintance with learning, and never associated with the learned. "
-- 
-
-### 3 - Main Point 3
-- Example 1
-	- Analysis and connection to theme
-- Example 2
-	- Analysis and connection to theme
+- "He never asked for legal opinions about political matters , and very few learned 
