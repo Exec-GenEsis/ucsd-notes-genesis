@@ -39,15 +39,14 @@ Kilwa in between
 		- “Littoral” vs. “parochial” consciousness—which applies to us today?  
 
 ## The Permeability of a Littoral Culture
-a) Polycentric network of Swahili Cities  
-i) System of reciprocity, of a “niche trade,” rather than hegemony  
-(1) E.g. Prominence of Mogadishu and Somali cities in the 12th century  
-(2) Later prominence of Kilwa and southern cities in the 13th century  
-(3) Kilwa southernmost point to which ocean-faring merchant ships could travel if  
-they wanted to sail home the same year  
-b) The Rhythm of the Winds  
-i) N.E. Monsoons (Kas Kazi in Swahili)  
-ii) S.W. Monsoons (Kusi in Swahili)  
-iii) Practical implications for trade network  
-(1) Instead of one people or one city monopolizing trade, each party filled a niche in  
-this highly dynamic, polycentric, and elastic system
+Polycentric network of Swahili Cities  
+- System of reciprocity, of a “niche trade,” rather than hegemony  
+	- E.g. Prominence of Mogadishu and Somali cities in the 12th century  
+	- Later prominence of Kilwa and southern cities in the 13th century  
+	- Kilwa southernmost point to which ocean-faring merchant ships could travel if they wanted to sail home the same year  
+
+The Rhythm of the Winds  
+- N.E. Monsoons (Kas Kazi in Swahili)  
+- S.W. Monsoons (Kusi in Swahili)  
+- Practical implications for trade network  
+	- Instead of one people or one city monopolizing trade, each party filled a niche in this highly dynamic, polycentric, and elastic system
