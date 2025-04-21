@@ -10,7 +10,7 @@ Type: Primary or Secondary?
 - Example 1
 	- Analysis and connection to theme
 - Example 2
-	- Analysis and connection to theme
+	- Analysis and connection to themes
 
 ### 3 - Main Point 3
 - Example 1
