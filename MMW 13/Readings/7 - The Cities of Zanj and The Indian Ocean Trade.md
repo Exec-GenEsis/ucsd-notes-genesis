@@ -1,8 +1,8 @@
 Description: Choice P{}
 Type: Primary or Secondary?
 - Scholarly Argument present?
-### 1 - Main Point 1
-- Example 1
+### 1 - The Cities of Zanj were known and explored already
+- From Al-
 	- Analysis and connection to theme
 - Example 2
 	- Analysis and connection to theme
