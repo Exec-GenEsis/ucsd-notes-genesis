@@ -1,5 +1,5 @@
 Description: Choice P{}
-Type: Primary or Secondary?
+Type: Primary or Secondary? lol
 - Scholarly Argument present?
 ### 1 - The Cities of Zanj were known and explored already
 - From Al-
