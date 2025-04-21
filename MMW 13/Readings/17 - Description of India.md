@@ -8,23 +8,9 @@ The author lists a few ways that Hindus are different from Muslims.
 ## 1- They differ in ‘everything which other nations have in common,’ including language. 
 
 ## 2 - They believe nothing that the Muslims believe religiously, making them ‘impure.’
+- Anything touched by a foreigner is also considered impure. Unable to interact with Hindus at all
+- "They are not allowed to receive anybody who does not belong to them... This, too, renders any connection with them quite impossible, and constitutes the widest gulf between us and them"
 
-Third, they are so different that Hindus ‘use their dress and customs to frighten their children.’ 
-
-Fourth, that they ‘don’t believe any other race or country outside their own has any knowledge of science.’
-### 1 - Main Point 1
-- Example 1
-	- Analysis and connection to theme
-- Example 2
-	- Analysis and connection to theme
-### 2 - Main Point 2
-- Example 1
-	- Analysis and connection to theme
-- Example 2
-	- Analysis and connection to theme
-
-### 3 - Main Point 3
-- Example 1
-	- Analysis and connection to theme
-- Example 2
-	- Analysis and connection to theme
+## Third, they are so different that Hindus ‘use their dress and customs to frighten their children.
+- "And as to declare us to be devil's breed, and all pur doings as the very opposite of all that is good and proper."
+- But, muslims also do that to the hindus. 
