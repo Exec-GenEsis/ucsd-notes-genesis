@@ -26,18 +26,24 @@ Ottoman Hegemony in the Eastern Mediterranean
 But Why Portugal?  
 - Relatively poor state, with a largely agricultural and fishing economy  
 - Could not muster more than 2 dozen warships in any region
-- Pivotal role of Prince Henry the Navigator (1394-1460)  
+- Pivotal role of Prince Henry the Navigator (1394-1460)
+	- Provided a lot of funding for early expeditiomns
+	- Helped contour and map out many of the islands
 
 Vasco da Gama in 1498  
 - First direct European contact with the Indian Ocean network—ominous beginnings  
-- Created an atmosphere of mutual animosity and suspicion  
+- Created an atmosphere of mutual animosity and suspicion
+	- Three months of intimidation and treachery, able to leave with cargo of nutmeg and pepper
+	- Took emissary to hold hostage, in exchange -> Pilot to lead to the Indian trade route.
 
 Portuguese Ambition of a Trade Monopoly in early 16th century  
 - New generation of “colonial-soldier-administrators” like Don Francisco D’Almeida  
 - Analyzed the structure of the trade network and aimed to monopolize it  
-- Controlling the “chokepoints” or key transfer points of this network  
+- By 16th century, controlled over 50 “chokepoints” or key transfer points of this network  
 	- Kilwa—Southern terminus of Swahili-Indian Ocean link  
-		- Intersection of faith and pillaging—seeking divine sanction?  
+		- Intersection of faith and pillaging—seeking divine sanction?
+		- Asked to pay 100 pounds of gold, instead sent goats and coconuts
+			- Might have been some sort of symbolic gestures of welcome
 	- Mombasa—key trade link between southern Africa and India  
 		- Encountered more resistance, yet burned and pillaged  
 		- Sultan of Mombasa’s letter to Malindi to describe the pillaging  
