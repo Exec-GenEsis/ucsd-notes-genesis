@@ -46,12 +46,14 @@ Portuguese Ambition of a Trade Monopoly in early 16th century
 			- Might have been some sort of symbolic gestures of welcome
 	- Mombasa—key trade link between southern Africa and India  
 		- Encountered more resistance, yet burned and pillaged  
-		- Sultan of Mombasa’s letter to Malindi to describe the pillaging  
+		- Sultan of Mombasa’s letter to Malindi to describe the pillaging
+			- Intended to warn Muslim ruler, drives wedge between former trading partners.
 	- Port of Hormuz (1508)—narrow strait into Persian Gulf
 	- Malacca (Malaka) (1511)  
-	- Macao and Nagasaki  
+	- Macao and Nagasaki
 		- Don Afonse d’Alboquerque—main architect of this aggressive policy  
-			- “Safe transit passes” for all entering and leaving “chokepoints”  
+			- “Safe transit passes” for all entering and leaving “chokepoints” 
+			- If no pass, your cargo will be confiscated, and hands of every sailor will be cut
 
 Most significant was establishment of Estado do India (State of India) in 1510  
 - Portugal’s second capital at the Indian city of Goa  
