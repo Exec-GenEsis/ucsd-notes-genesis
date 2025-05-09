@@ -18,6 +18,6 @@ Type: Primary Source
 - "A third sort of people chose a method between these two.... eating and drinking what their appetites required, they walked everywhere with [fragrances and nose-coverings]"
 ### 3 - People started to prioritize themselves and the present. Full survival instincts
 - "For their terror was such, that a brother even fled from his brother, a wife from her husband, and, what is more uncommon, a parent from their own child."
-	- Analysis and connection to theme
-- "You might see the poor distressed labourers... without either the aid of physicians, or help of servants, languishing on the highways, in the fields, and in their own hoises, and dying rather like cattle than human creatures. The consequence was that.... care"
-	- Analysis and connection to theme
+	- Nobody knew how to survive other than to avoid the plague, and the fact that people had to leave each other to survive should be horrifying. 
+- "You might see the poor distressed labourers... without either the aid of physicians, or help of servants, languishing on the highways, in the fields, and in their own houses, and dying rather like cattle than human creatures. The consequence was that.... supposing every day to be their last, their thoughts were not so much employed how to improve, as how to use their substance for their present support"
+	- If you were a peasant, gg, throw yo stuff and go next at that point. 
