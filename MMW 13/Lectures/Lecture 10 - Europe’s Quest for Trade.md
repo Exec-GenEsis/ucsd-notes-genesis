@@ -1,21 +1,25 @@
 Key Focus of Lecture:  
 1) Motives behind the European push for exploration  
 2) Why slow and incremental development of this process?  
-I) The Appetite for Spice  
-a) Major Maritime Breakthroughs in late 15th century  
-i) 1488—Portuguese pilot Bartholomew Dias rounds the Cape of Good Hope  
-ii) 1492 Columbus receives commission to sail across Atlantic  
-iii) 1494 Treaty of Tordesillas  
-iv) 1498 Vasco da Gama reaches Calicut, India after a grueling 10-month journey  
-b) What incentives had led to these breakthroughs?  
-i) Extend Christendom to outflank the spread of Islam  
-(1) Allure of the Prester John Myth  
-(2) Vasco da Gama landed in Calicut hoping to find “Christians and spices”  
-ii) Search for natural resources, esp. land to cultivate cash crops  
-iii) Most importantly, trade incentives  
-(1) Alternative trade route to Asia, esp. more reliable access to spices  
-c) The Demand for Pepper and other Spices  
-i) Conspicuous consumption and social class  
+
+## The Appetite for Spice  
+Major Maritime Breakthroughs in late 15th century  
+- 1488—Portuguese pilot Bartholomew Dias rounds the Cape of Good Hope  
+- 1492 Columbus receives commission to sail across Atlantic  
+- 1494 Treaty of Tordesillas  
+- 1498 Vasco da Gama reaches Calicut, India after a grueling 10-month journey
+
+What incentives had led to these breakthroughs?  
+- Extend Christendom to outflank the spread of Islam  
+	- Allure of the Prester John Myth
+		- The "allure" of Prester John, a mythical Christian king, ==stemmed from a combination of factors==. His kingdom was described as a land of fabulous wealth and wonders, and he was portrayed as a powerful ally in the Crusades and against infidels (Indians), sparking European curiosity and desire for exploration. The legend also reflected a yearning for a virtuous, unifying monarch in a politically unstable Europe.
+	- Vasco da Gama landed in Calicut hoping to find “Christians and spices”  
+- Search for natural resources, esp. land to cultivate cash crops  
+- Most importantly, trade incentives  
+	- Alternative trade route to Asia, esp. more reliable access to spices  
+
+The Demand for Pepper and other Spices  
+- Conspicuous consumption and social class  
 (1) By 12th century, spices like ground pepper, nutmeg, cinnamon markers of wealth  
 (a) E.g. Ritual of displaying the “spice platter” during meals  
 (b) Spices given as coveted gifts like precious jewels  
@@ -27,7 +31,8 @@ ii) Medieval Europe’s dependence on Asian imports
 iii) Rise of the nouveau-riche middle-class in late 14th century  
 (1) By the late 1300s, price of ground pepper had risen 30-fold  
 (2) Major 15th century crisis—search for new sea-route to satisfy pepper craving  
-II) Cape by Treacherous Cape  
+
+## Cape by Treacherous Cape  
 a) Why did the “search” for a sea-route take so long?  
 i) What’s so hard about sailing down W. Africa, hugging the coast all the way?  
 b) John Thornton’s Analysis  
