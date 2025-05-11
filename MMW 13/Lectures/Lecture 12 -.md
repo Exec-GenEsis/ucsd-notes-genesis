@@ -3,7 +3,7 @@ Traditional Emphasis Regarding the Conquest
 - How could a few hundred conquistadors topple well-established empires?  
 	- Fatalism of Moctezuma?  
 		- The prophesy of the return of Quetzalcoatl—The Feathered Serpent 
-		- `Emphasis on pivotal role of Malinche (Dona Marina)?  
+		- Emphasis on pivotal role of Malinche (Dona Marina)?  
 - Can we explain conquests simply through the acts and whims of a few individuals?  
 ## Contingent Factors Behind the Spanish Conquest of the Aztecs  
 a) Aztec Decline by early 1500s  
