@@ -1,11 +1,11 @@
-A Miraculous Conquest?  
-a) Traditional Emphasis Regarding the Conquest  
-i) How could a few hundred conquistadors topple well-established empires?  
-(1) Fatalism of Moctezuma?  
-(a) The prophesy of the return of Quetzalcoatl—The Feathered Serpent  
-(2) Emphasis on pivotal role of Malinche (Dona Marina)?  
-ii) Can we explain conquests simply through the acts and whims of a few individuals?  
-II) Contingent Factors Behind the Spanish Conquest of the Aztecs  
+## A Miraculous Conquest?  
+Traditional Emphasis Regarding the Conquest  
+- How could a few hundred conquistadors topple well-established empires?  
+	- Fatalism of Moctezuma?  
+		- The prophesy of the return of Quetzalcoatl—The Feathered Serpent 
+		- `Emphasis on pivotal role of Malinche (Dona Marina)?  
+- Can we explain conquests simply through the acts and whims of a few individuals?  
+## Contingent Factors Behind the Spanish Conquest of the Aztecs  
 a) Aztec Decline by early 1500s  
 i) Aztec empire had been sustained on a much-despised tributary system  
 ii) Vicious cycle of decline  
@@ -24,7 +24,8 @@ d) Hernan Cortes and the Capture of Tenochtitlan 1519
 i) Moctezuma’s Ill-fated Hospitality  
 ii) Miscalculation: give them enough gold, so they might leave  
 iii) Similar to Pizarro’s tactics in the Inca capital of Cuzco  
-III) Aztec Resistance  
+
+## Aztec Resistance  
 a) Sahagun’s Account of Aztec Perspective  
 i) Festival of Huitzilopochtli, the Sun-God  
 ii) Successful resistance led by Moctezuma’s successor, Cuauhtemoc  
