@@ -1,6 +1,5 @@
-Description: An account of the Portugese's Intrusion of the 
-Type: Primary or Secondary?
-- Scholarly Argument present?
+Description: An account of the Portugese's Intrusion of the Spanish held continents of Kilwa and Mombasa 
+Type: Primary
 ### 1 - The Portugese were received with relative kindness and respect.
 - "He excused himself from coming, but sent the Grand-Captain gifts instead; They were five goats, a small cow and a large number of coconuts and other fruit,"
 	- I mean come on, showing up one day and demanding audience is crazy work. In a way Kilwa's actions can be disrespectful, but not murder disrespectful. You don't just do that without a motive.
