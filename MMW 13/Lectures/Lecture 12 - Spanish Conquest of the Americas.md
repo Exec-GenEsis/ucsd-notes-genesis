@@ -4,7 +4,7 @@ Traditional Emphasis Regarding the Conquest
 	- Fatalism of Moctezuma?  
 		- The prophesy of the return of Quetzalcoatl—The Feathered Serpent 
 		- Emphasis on pivotal role of Malinche (Dona Marina)?  
-- Can we explain conquests simply through the acts and whims of a few individuals?  
+- Can we explain conquests simply through the acts and whims of a few individuals?
 ## Contingent Factors Behind the Spanish Conquest of the Aztecs  
 Aztec Decline by early 1500s  
 - Aztec empire had been sustained on a much-despised tributary system  
@@ -13,7 +13,7 @@ Aztec Decline by early 1500s
 	- More blood needed to revitalize the waning energy of the sun (Ritual explanation)
 - Spaniards exploited the fractures within the crumbling Aztec system  
 
-Experience subjugating native populations  
+Spanish experience subjugating native populations  
 - Canary Islands  
 - For three decades, decimation of the Taino and Arawak people of the Caribbean  
 	- 4 million in 1492 down to a few thousand in 1540s  
@@ -26,6 +26,7 @@ Advantages of Desperation (As a motivator for exploitation and riches)
 Hernan Cortes and the Capture of Tenochtitlan 1519  
 - Moctezuma’s Ill-fated Hospitality 
 	- Miscalculation: give them enough gold, so they might leave  
+	- Just got greedier
 - Similar to Pizarro’s tactics in the Inca capital of Cuzco  
 
 ## Aztec Resistance  
@@ -34,8 +35,8 @@ Sahagun’s Account of Aztec Perspective
 - Successful resistance led by Moctezuma’s successor, Cuauhtemoc
 
 Siege of Tenochtitlan 1521  
-- The return of Cortes with 13 sloops  
-- Final defeat in 1521 after three-month siege  
+- The return of Cortes with 13 sloops, blasting the wall with cannons
+- Final defeat in 1521 after three-month siege after quetzal-owl was defeated
 
 Demographic Catastrophe  
 - No immunity to common Old World diseases, lot of death.
