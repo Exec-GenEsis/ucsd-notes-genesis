@@ -4,4 +4,4 @@ Type: Primary
 - "On Kilwa) This town was taken by force from its king by the Portugese, as, moved by arrogance, he refused to obey the King our Lord."
 - "(On Sofala) These Moors have dwelt there a long time by reason of the great traffic which they carried on with the heathen of the mainland"
 - "(On Mombasa) The king of this city refused to obey the commands of the King our Lord and through this arrogance he lost it, and our Portugese took it from him by force."
-- "(On The City of Brava) It has no kings, but is ruled by elders, and ancients of the land, who are the persons held in the highest esteem... And this place was destroyed by the Portugese, who slew many of its people and carry "
+- "(On The City of Brava) It has no kings, but is ruled by elders, and ancients of the land, who are the persons held in the highest esteem... And this place was destroyed by the Portugese, who slew many of its people and carried many into captivity, and took great spoil of gold and silver and goods."
