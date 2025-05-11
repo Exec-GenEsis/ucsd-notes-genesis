@@ -1,119 +1,44 @@
-**Outline Lecture Thirteen—Economic Exploitation of the Americas**
+Outline Lecture Seventeen—The Rise of Anti-Semitic Persecution in Germany
 
-Key Focus:
+Main Thesis: The extent to which a community allows seeds of discrimination and prejudice to fester in times of relative stability and peace will generally predetermine how violently it responds when crisis erupts
 
-1)     Conflict between the missionary impulse and the economic incentive behind the Spanish colonial experience in the Americas
+I)	The Mechanism of Persecution
+a)	The “Innocuous” Seeds of Prejudice
+i)	A culture of persecution often may seem relatively mild, trivial, and harmless
+ii)	But when crisis occurs, persecution can reach horrific proportions
+b)	Need to understand persecution “historically”?
+i)	How it can be reinforced by stereotypes, jokes, rumors, customs, etc.
+ii)	Key is to examine the social mechanism behind persecution
 
-2)     Cultural and social repercussions of both goals
+II)	The Trial of Endingen in 1470
+a)	The setting—three Jewish brothers accused of ritual murder and executed
+i)	Emperor Frederick III’s stern letter of rebuke in the aftermath
+(1)	Should not have tried and executed Jews without imperial sanction
+(2)	Ultimately, more out of concern for Habsburg authority than justice for Jews
+b)	Political Implications in the 15th century Breisgau Valley
+i)	German townships and Swiss cantons in the Vorderostericch (Further Austria) 
+(1)	Actively contested Habsburg jurisdiction over local political and legal matters
+(2)	Tolerance for Jews reminded them of their subservience to Habsburg authority
+(3)	Jews became pawns in contest between Habsburg rule and German defiance
+c)	Circumstances Behind the Accusation
+i)	Discovery in 1470 in a collapsed charnel house
+ii)	How could they have jumped to such unfounded conclusion?
+(1)	Jews as enemies of Christ
+(a)	Worshipped in the “Synagogue of Satan”—cult rituals and orgies
+(b)	“Ritual murder” myth
+(2)	Stigma of Victimhood
+d)	Guilty Verdict from the Outset
+i)	Brothers not innocent until proven guilty, but guilty by virtue of being a Jew
+ii)	Confessions extracted from torture
+(1)	Mercklin’s “confession” as to “Why was Christian blood needed?”
+(2)	Likely threatened with common torture called strappada
+iii)	Why circumcision accepted as motive?
+e)	Fabrication of a Conspiracy 
+i)	Building the case for a Jewish “conspiracy”
+ii)	Significance: Blame it on a cultural, religious practice ubiquitous to all Jews
+(1)	Treat murder as religious evil of Judaism, not as secular crime
+iii)	So that Endingen can finally be “Juden Frei” or “Jew Free”
+f)	The “Spill-over Effect” of Endingen
+i)	Set legal precedent for other cases of anti-Semitic persecution
+ii)	Last but not least, “story becoming history”
 
-**I)**      Global Christendom or Silver Bullion?
-
-a)     Religious Conversion vs. Economic Exploitation
-
-i)      Fundamental tension that defined 300 years of Spanish colonial rule in the Americas
-
-b)     Missionary Rationale for Conversion
-
-i)      1st Rationale: Native American peoples had “souls”
-
-(1)   Valladodid Debate 1550—De Las Casas vs. Juan Sepulveda
-
-(2)   American “**_noble_** savages” vs. view of Africans per Aristotelian racist theories
-
-(3)   Convenient racial stigma and double standard placed on Africans?
-
-ii)    2nd Rationale: Duty to protect native Americans as subjects of the king
-
-(1)   Royal charters to set up missions and reconsolidate towns and villages
-
-c)     Champion of Missionary Cause: De Las Casas (1474-1566)
-
-i)      Personal background
-
-(1)   Inspired by moral arguments of Fray Antonio de Montesinos
-
-(2)   Joined the Dominican Order
-
-(3)   His 1542 _Short Account of the Destruction of the Indies_
-
-ii)    Basis of what would become “The Black Legend”
-
-(1)   De Las Casas’s graphic accounts of Spanish atrocities in the Caribbean
-
-iii)   Altruism or self-serving agenda behind the missionary rationale?
-
-(1)   Missionaries often exaggerated native eagerness to embrace the gospel
-
-(a)   Yet “The [_conquistadores_] have taken no more care to have the Faith of Jesus Christ preached to those nations than they would to have it preached to dogs or other beasts.”
-
-(b)   Resulted often in half-hearted or perfunctory conversion
-
-(2)   De Las Casas’s Appeal to the Spanish Crown, King Philip II
-
-iv)   Using Christianity to save souls or using converts to save the Catholic Church?
-
-d)     Conquistador Rationale for Economic Exploitation
-
-i)      _Encomiendas_: “provisional trusteeships” given by the Crown to conquistadors
-
-(1)   To assume essential administrative duties
-
-(2)   _Encomenderos_ expected to safeguard the life and property of their native subjects
-
-ii)    Missionaries appealed to the Crown to abolish _encomiendas_
-
-e)     The Crown’s compromise—a middle course
-
-i)      Keep the _encomiendas_ intact, but subject them to official regulation
-
-(1)   Law of Burgos in 1512
-
-(2)   System of _Audiencias_—royal judicial oversight over _encomienda_ system
-
-(3)   New Law of 1542 as response to changing developments
-
-**II)**   Silver and the Mercantilist Logic
-
-a)     Windfall of Silver
-
-i)      Silver mines in Zacatecas (northern Mexico) and Potosi (modern-day Bolivia)
-
-ii)    American silver had “lubricated the world economy” (Bentley)
-
-iii)   Geopolitical advantages for Spanish Crown
-
-iv)   Mercantilist Assumptions
-
-(1)   Pursue protectionism as opposed to free trade
-
-b)     Spanish Implementation of Mercantilism
-
-i)      Royal Monopoly over Silver production
-
-(1)   Crown receiving 20% of all silver—the “_Quinto_”
-
-(2)   In addition, monopoly over mercury
-
-(a)   Mercury mines in Huancavelica
-
-ii)    Monopoly over transport—The _Flota_ System
-
-(1)   Covered 85% of all Atlantic trade in 16th century
-
-iii)   Exploitation of conscript labor—_Repartimiento_
-
-(1)   Based on the old Inca Mita system of labor conscription
-
-iv)   Demographic consequences
-
-c)     Missionaries’ Reaction
-
-i)      Provide refuge for native people from the _Repartimiento_ system
-
-ii)    Crown’s reaction was to revoke the charters of many local missions
-
-iii)   Coincided with persecution of some missionaries for heresy
-
-(1)   Destruction of murals and native iconic art
-
-(2)   Forbid syncretism of Christianity and local religious symbols

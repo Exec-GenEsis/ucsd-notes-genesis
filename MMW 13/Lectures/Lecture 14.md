@@ -1,0 +1,107 @@
+**Outline Lecture Fourteen—Economies of Exploitation: The Atlantic Slave Trade**
+
+Key Focus:
+
+1)     What were the economic driving forces behind the slave trade?
+
+2)     What were some of its global repercussions?
+
+**I)**      The Origin of the Atlantic Slave Trade
+
+a)     Slavery Prior to 1400
+
+i)      In the 8th century, the word “slave” derived from ethnic reference “Slav”
+
+ii)    Key differences between pre-15th century and post-15th century slavery
+
+(1)   First, ratio of slaves to free people in pre-15th century societies very low
+
+(2)   Second, slave status hardly ever defined by a person’s race
+
+iii)   How did new type of slave enterprise arise?
+
+b)     The Sugar Connection
+
+i)      A cultural consequence of the Crusades
+
+ii)    Developed Atlantic “sugar islands”
+
+iii)   By mid-1500s, Brazil would eclipse Atlantic islands as main supplier of sugar
+
+c)     The Economics of Plantation Societies
+
+i)      Multinational enterprises
+
+(1)   Required massive capital investment:
+
+(2)   Transport of slaves and goods
+
+ii)    Introduced industrial-style mass production
+
+(1)   Followed a **_capital_**-intensive vs. **_labor_**-intensive logic
+
+(a)   Slaves treated as “factory machines” not “human workers” per se
+
+(b)   More “economical” to replace than to sustain this labor resource
+
+(2)   This logic most pervasive in South America and the Caribbean
+
+(a)   Prohibition against slave households
+
+(3)   For Europeans, important precursor for the Industrial Revolution?
+
+(a)   Roots of proto-capitalism in slave-based plantations?
+
+iii)   Plantation economies also anticipated subversion against blatant exploitation
+
+(1)   Resistance from slaves in places like Brazil, Jamaica, Dutch Surinam
+
+(2)   Slave Revolt in Haiti 1792
+
+**II)**   The Global Impact of the Atlantic Slave Trade
+
+a)     The Triangular Trade of the Atlantic
+
+i)      “Engine” that would propel Europe towards the Industrial Revolution?
+
+ii)    Created “great wealth for few, great misery for many”
+
+b)     “Refinement of Cruelty”
+
+i)      Olaudah Equiano’s chronicles
+
+ii)    Descriptions of the loading of slaves and “The Middle Passage”
+
+(1)   Thomas Phillips in 1694—captain of the _Hannibal_
+
+(a)   Africans “as much as the works of God’s hands”
+
+(b)   Yet, fully embraced a paternalistic, colonial rationale
+
+c)     Estimate of Numbers
+
+i)      From 1500 to 1870, roughly 12 million African slaves made it alive to the Americas
+
+ii)    Africa’s population attrition should easily exceed 25 million
+
+d)     Long-term Impact of the Slave Trade on Africa
+
+i)      Geopolitical Power Shifts
+
+(1)   General destabilization and depopulation of the region
+
+(a)   King Afonso’s plea to Portuguese Crown 1526
+
+(2)   Power shifts from inland Sub-Saharan kingdoms to tropical coast states
+
+(a)   Brutal, aggressive _native_ regimes driven by greed to meet demand for slaves
+
+ii)    Effect on Economic Productivity
+
+(1)   Depletion of young men of reproductive age in West Africa
+
+(2)   Productive human resources exchanged for non-productive luxury items
+
+(3)   Lasting impact on Africa’s inability to catch up to the industrial world?
+
+iii)   Explanations for the Rise of the West
