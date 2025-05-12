@@ -1,7 +1,7 @@
-Description: What is it?
+Description: An account of a Spanish encomendero turned Catholic essentially ratting out the immorality and depravity that the Indies were being treated with
 Type: Primary or Secondary?
 - Scholarly Argument present?
-### 1 - Main Point 1
+### 1 - The Indies were perfectly willing to be Christianized, and they were good people
 - Example 1
 - Example 2
 ### 2 - Main Point 2

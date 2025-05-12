@@ -1,4 +1,4 @@
-Description: 
+Description: A series of primary sources illustrating the political workings of the encomienda "Free Labor"
 Type: Secondary 
 - The Encomienda system was a system of forced labor that tried to act like it was an attempt to "Civlilize" the people. This was a purely economic goal for them.
 ### 1 - "The Encomenderos just kept asking man"
