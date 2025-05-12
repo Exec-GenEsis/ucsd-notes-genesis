@@ -1,8 +1,7 @@
-Description: What is it?
-Type: Primary or Secondary?
-- Scholarly Argument present?
-### 1 - Main Point 1
-- Example 1
+Description: Primary account of how slaves were being treated and dehumanized.
+Type: Primary
+### 1 - Yeah these people were not treated well
+- "Here they tied our hands and contunued to "
 - Example 2
 ### 2 - Main Point 2
 - Example 1
