@@ -6,10 +6,9 @@ Type: Primary or Secondary?
 - "...docile and open to doctrine, very apt to receive our holy Catholic faith... And once they begin to hear the tidings of the Faith, they are so insistent on knowing more and on taking the sacraments of the Church and on observing the divine cult that, truly, the missionaries who are here need to be endowed by God with great patience in order to cope with such eagerness." (on the contrary to the slave tending nature the Indies were described by) 
 ### 2 - - The Spanish did not respect god nor the king
 - "...nothing was done to incline the Indians to embrace the one true Faith, they were rounded up and in large numbers forced to do so... They are told they must embrace the Christian faith immediately; without hearing any sermon preached and without any indoctrination
-- Example 2
-### 3 - Main Point 3
-- Example 1
-- Example 2
+- "And those who, in the Indies, had charge of the ruin and the robberies have continued, as if no orders had been issued... to engage in still more disorders before the new judges had should arrive to execute the laws" (After the laws of 1542)
+### 3 - The encomenderos would do anything deplorable to get their money.
+- "A cacique... had given the tyrant...gold worth nine thousand castellanos. Not content with this amount, the Governor had the cacique bound to a stake... and set fire to the soles of his feet, demanding more gold" (This continues until the cacique passes from their wounds.)
 ### 2) **De Las Casas, "Persecutor turns Protector"**
 
 **Connections to Lecture Outline:**
