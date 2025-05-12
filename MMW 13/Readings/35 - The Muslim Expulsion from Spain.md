@@ -1,16 +1,6 @@
-Description: What is it?
-Type: Primary or Secondary?
-- Scholarly Argument present?
-### 1 - Main Point 1
-- Example 1
-- Example 2
-### 2 - Main Point 2
-- Example 1
-- Example 2
-### 3 - Main Point 3
-- Example 1
-- Example 2
-
-“They were Christians in name, but Muslims in soul — so they were cast out.”
-“Spain purified itself — and in doing so, it bled genius, craft, and spirit.”
-“Not by the sword alone, but by law, decree, and silence were they erased.”
+- (First rebellion and asssasination of the cardinals agent) "This in turn gave the Catholic monarchs an excuse to revoke their promises"
+- "(On the moor, now morisco). every aspect of his way of life - including his language, dress and social customs, was condemned as uncivilized an pagan"
+- "But purity of faith came to be identified with purity of blood so that alle New Christians... were rbanded as potential heretics"
+  "The demographic factor was one of the most decisive argumens...by Juan de Ribera. He warned that unless he took swift action, christian Spaniards would soon find themselves outnumbered by Muslims"
+	- "The Moriscos....thjink only of reproducing and saving their skins, while their temperance in food and drink gives them a high life expectancy"
+- 
