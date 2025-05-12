@@ -14,7 +14,7 @@ Type: Secondary
 	- An account of a court proceeding complaining against Juan Ponce, showed that these guys did not care at all.
 - "... their master increased the amount they were obligated to give by half, and they have given him this for eight years without being paid for it."
 - "Also, the last sunday, the said Juan Ponce ordered the macebuelas to bring they wheat they are obligated to give, and because they did this they did not hear Mass"
-	- Shows how they couldn't hide behind religious tones here, and also an appeal to their Christian sympathizers. 
+	- Shows how they couldn't hide behind religious tones here, and also an appeal to their Christian sympathizers. o
 ### 3 - Main Point 3
 - Example 1
 - Example 2
