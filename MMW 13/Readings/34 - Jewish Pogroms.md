@@ -18,3 +18,7 @@ Type: Secondary due to its added dialogue, containing Primary Sources
 	- Analysis and connection to theme
 - Example 2
 	- Analysis and connection to theme
+
+“They said the Jews poisoned the wells — and so they set them on fire.”
+“Not even the children were spared — they died for a lie.”
+“The plague devoured bodies, and the people devoured each other.”

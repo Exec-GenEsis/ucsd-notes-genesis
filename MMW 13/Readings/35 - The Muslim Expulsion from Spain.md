@@ -10,3 +10,7 @@ Type: Primary or Secondary?
 ### 3 - Main Point 3
 - Example 1
 - Example 2
+
+“They were Christians in name, but Muslims in soul — so they were cast out.”
+“Spain purified itself — and in doing so, it bled genius, craft, and spirit.”
+“Not by the sword alone, but by law, decree, and silence were they erased.”
