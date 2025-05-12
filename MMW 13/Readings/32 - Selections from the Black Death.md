@@ -1,8 +1,9 @@
 Description: What is it?
 Type: Primary or Secondary?
 - Scholarly Argument present?
-### 1 - Main Point 1
-- Example 1
+### 1 - Plague transmission was light in a connected Europe
+- "The establishment of the far-flung Mongol Empire by the second half of the thirteenth century linked Asia to Europe in an overland network of mounted armies, postal carriers, and caravans. Once transmitted from its endemic carriers in the East, the plague easily made its way across Europe through well-established trade links.
+- 
 - Example 2
 ### 2 - Main Point 2
 - Example 1
