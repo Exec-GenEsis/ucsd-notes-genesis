@@ -18,11 +18,15 @@ Type: Secondary?
 	- "Come then, seek the aid of God Almighty for raising the plague, for He is the best helper"
 - () Lisan Al-din Ibn Al-Khatir rejects the Predominant hadith explanation
 	- "And it is not a secret to whoever has looked into this matter... that those who come into contact with plague patients mostly die, while those who do not come into contact survive."
-	- "And the safety of those who have gone into isolation is demonstrated by the e"
-### 3 - Main Point 3
-- Example 1
-- Example 2
+	- "And the safety of those who have gone into isolation is demonstrated by the example of the ascetic, Ibn Abu Madyan."
+	- "And amidst the horrible afflictions that the plague has imposed upon the people, God has afflicted the people with some learned religious scholars who issue fatwas against fleeing the plague, so that the quills with which the scholars wrote these fatwas were like swords upon which the muslims died"
 
-“They said it came in the wind, or from the stars — but no one could stop it.”
-“All that was once stable was overturned — the poor were buried without rites, and the rich fled to die elsewhere.”
-“Even the bells rang differently — as if the sound itself carried death.”
+● City Magistrates (Italian Ordinances)
+○ Tried to enforce quarantine, crowd control, and sanitation.
+○ Showed early efforts at public health amid limited knowledge.
+● Clergy and Monks
+○ Died in large numbers, leaving communities spiritually adrift.
+○ Often believed the plague was divine punishment.
+● Flagellants
+○ Paraded through towns self-harming to atone for society’s sins.
+○ Represented religious hysteria and collective desperation.
