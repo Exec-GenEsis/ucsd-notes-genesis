@@ -27,9 +27,13 @@ The Curriculum of Humanism
 	- Departure from Aquinas  
 	- Eulogy for humanity based not on logic but on eloquence
 	- Celebration of humanity
-		- Envy of even the angels, due to lack of prescribed and fixed role  
-		- “Indeterminate form” and “chameleon” figure  
-- Marsilio Ficino: “Man is a kind of God,” capable of “transforming himself into God, as if he were God himself”  
+		- Envy of even the angels, due to humanity's lack of prescribed and fixed role.
+			- We get to decide what becomes of us
+		- “Indeterminate form” and “chameleon” figure
+			- We can transform ourselves to become the worst or best of our reality.
+				- Self-determination.
+- Marsilio Ficino: “Man is a kind of God,” capable of “transforming himself into God, as if he were God himself”
+	- Expansion of Mirandola's ideas.
 
 ## Renaissance Art and the Ideology of Control  
 The “discovery” of linear perspective  
@@ -62,3 +66,5 @@ Social Implications of Renaissance Rationalism
 	- To “represent” nature is simultaneously to “conquer” it  
 - Impact on the West’s ecological perspective  
 	- Marsilio Ficino: “Man as the vicar of God” to rule and use nature
+
+Chang is a chameleon
