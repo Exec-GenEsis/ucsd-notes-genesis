@@ -42,9 +42,16 @@ The “discovery” of linear perspective
 - Artist becomes the seer and organizer of reality “as if he were God himself”
 
 Filippo Brunelleschi (1377-1446)  
- - Contrast to Gothic style  
-- Feeling evoked by Renaissance architecture is “one of intellectual control, not mystic transcendence”  
-- E.g. Duomo; Baptistry of Santa Maria; Interior of San Lorenzo  
+ - Contrast to Gothic style
+	 - Gothic Style - Dark, detailed, dizzying
+		 - Inspiring a sense of mysticism through sensing that mystery, and reasoning that feeling to be an affirmation of God's existence.
+		- Transcendental - Senses overwhelmed that you might transcend to heaven
+	- Renaissance Style - Feeling evoked by Renaissance architecture is “one of intellectual control, not mystic transcendence”  
+		- Symmetrical, ordered, monotonic nature symbolic of God and his creation.
+	- E.g. Duomo; Baptistry of Santa Maria; Interior of San Lorenzo
+		- Duomo - basically believed that buildings played a role in inspiring civic responsibility, order.
+			- Have the power to make people more virtuous citizens.
+			- Architecture should be informed by what reason informs you to do
 
 Leon Battista Alberti (1404-1472)  
 - Public buildings can and should inspire citizens towards greater virtue and civic responsibility  
