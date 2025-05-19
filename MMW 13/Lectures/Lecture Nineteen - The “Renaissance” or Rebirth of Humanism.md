@@ -51,7 +51,7 @@ Filippo Brunelleschi (1377-1446)
 	- E.g. Duomo; Baptistry of Santa Maria; Interior of San Lorenzo
 		- Duomo - basically believed that buildings played a role in inspiring civic responsibility, order.
 			- Have the power to make people more virtuous citizens.
-			- Architecture should be informed by what reason informs you to do
+			- Architecture informs conformity and 
 
 Leon Battista Alberti (1404-1472)  
 - Public buildings can and should inspire citizens towards greater virtue and civic responsibility  
