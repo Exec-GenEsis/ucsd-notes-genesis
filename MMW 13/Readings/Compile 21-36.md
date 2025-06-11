@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## The Birth of an Atlantic World
+=======
+## 21
+origin/main
 Description: A retrospective wide lens analysis on the European efforts to conquer the sea and trade routes to Africa
 Type: Secondary
 - Argues the primary motivation was spice, that Europe was largely unsuccessful in strongmanning the African coast, and had to concede to trade relations. Also argued that Iberia wasn't the only country that put effort into exploration.
@@ -9,6 +13,7 @@ Type: Secondary
 - "(Africans couldn't fight Europeans at sea, Europeans couldn't effectively use naval on land). As a result, the Europeans had to abandon... trading and raiding and substitute a relationship based more or less completely on peaceful regulated trade"
 ### 2 - The unlocking of new nautical technologies helped finally traverse the previously impenetrable and slow channels,
 - "In many ways, in the days of wooden sailing ships, the ocean was as much channeled as were rivers whose direction of flow was clearly defined. This was crucian for the development of Atlantic navigation, for the winds and currents created barriers to traffic for thousands of years."
+<<<<<<< HEAD
 - "(In response to commercial possibilities) the prospects of the next stretch of coast to produce the pepper known as Malaguetta pepper were known to Fernao Gomes, when he petitioned the Crown for exclusive rights to the trade of West Africa... In any case, his grant included a provision that he explore further sections of the coast, and his expeditions rapidly began exporting the pepper"
 
 ## Kilwa, Mombasa, and the Portugese
@@ -351,3 +356,6 @@ identity in addition to life.
 courts acted with sanction and ceremony.
 ● Sharp contrast to Ottoman Intercommunal Relations, where minority communities were
 protected by legal boundaries — in Christian Europe, law itself became the weapon.
+=======
+- "(In response to commercial possibilities) the prospects of the next stretch of coast to produce the pepper known as Malaguetta pepper were known to Fernao Gomes, when he petitioned the Crown for exclusive rights to the trade of West Africa... In any case, his grant included a provision that he explore further sections of the coast, and his expeditions rapidly began exporting the pepper"
+>>>>>>> origin/main
