@@ -3,4 +3,4 @@
 - "But purity of faith came to be identified with purity of blood so that alle New Christians... were rbanded as potential heretics"
   "The demographic factor was one of the most decisive argumens...by Juan de Ribera. He warned that unless he took swift action, christian Spaniards would soon find themselves outnumbered by Muslims"
 	- "The Moriscos....thjink only of reproducing and saving their skins, while their temperance in food and drink gives them a high life expectancy"
-- 
+- "It was this refusal to renounce their religious and cultural identity that many Old Christian found offensive"
